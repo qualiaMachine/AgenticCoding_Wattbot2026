@@ -1,4 +1,0 @@
-numpy>=1.26
-openai>=1.0
-pypdf>=5.0
-python-dotenv>=1.0
