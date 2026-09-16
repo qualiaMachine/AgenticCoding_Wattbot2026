@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/wattbot/__init__.py
+src/wattbot/cli.py
+src/wattbot/config.py
+src/wattbot/corpus.py
+src/wattbot/data.py
+src/wattbot/extraction.py
+src/wattbot/generation.py
+src/wattbot/index.py
+src/wattbot.egg-info/PKG-INFO
+src/wattbot.egg-info/SOURCES.txt
+src/wattbot.egg-info/dependency_links.txt
+src/wattbot.egg-info/entry_points.txt
+src/wattbot.egg-info/requires.txt
+src/wattbot.egg-info/top_level.txt
+tests/test_data.py

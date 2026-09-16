@@ -1,0 +1,2 @@
+[console_scripts]
+wattbot = wattbot.cli:main

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: wattbot
+Version: 0.1.0
+Summary: Reproducible baseline RAG pipeline for WattBot 2026
+Requires-Python: >=3.11
+Requires-Dist: numpy>=1.26
+Requires-Dist: openai>=1.0
+Requires-Dist: pypdf>=5.0
+Requires-Dist: python-dotenv>=1.0
